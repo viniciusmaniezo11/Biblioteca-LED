@@ -1,0 +1,21 @@
+{
+    "nome": "LED",
+    "version": "1.0.0",
+    "description": "Biblioteca para controle nao bloqueante de LED com suporte a ligar, desligar, piscar, temporizacao de piscadas, alternar.",
+    "keywords": [
+        "led",
+        "arduino",
+        "esp32",
+        "non-blocking"
+    ],
+    "authors": [
+        {
+            "nome": "Vinicius Maniezo Alves",
+            "e-mail": "viniciusmaniezoalves@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "framework": "arduino",
+    "platforms": "*",
+    "headers": "LED.h"
+}
