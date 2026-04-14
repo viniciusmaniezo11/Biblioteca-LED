@@ -17,11 +17,11 @@ O funcionamento da biblioteca é não bloqueante utilizando do `millis()`, devid
 
 # Estrutura da biblioteca
 
-LED/
-├─ library.json
-├─ README.md
-├─ LICENSE
-├─ src/
-│   ├─ LED.h
-│   └─ LED.cpp
-└─ examples/
+    LED/
+    ├─ library.json
+    ├─ README.md
+    ├─ LICENSE
+    ├─ src/
+    │   ├─ LED.h
+    │   └─ LED.cpp
+    └─ examples/
